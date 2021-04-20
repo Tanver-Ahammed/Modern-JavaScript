@@ -1,0 +1,8 @@
+{
+    "persons":[
+        {"name" : "Tanver", "age" : 21, "hometown": "Joypurhat", "married": false},
+        {"name" : "Sheuly", "age" : 23, "hometown": "Tangail", "married": false},
+        {"name" : "Tariq", "age" : 24, "hometown": "Gogalpur", "married": false},
+        {"name" : "Bonna", "age" : 22, "hometown": "Kagmari", "married": false}
+    ]
+}
